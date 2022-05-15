@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Toásos pizza",
+        "ingredients": [
+            "paradicsomos alap",
+            "prosciutto sonka",
+            "gomba",
+            "sajt",
+            "toás"
+        ],
+        "image": "/images/pizza1.png",
+        "isAvailable": true
+    },
+    {
+        "name": "Tömlős saa(j)t pizza",
+        "ingredients": [
+            "paradicsomos alap",
+            "prosciutto sonka",
+            "gomba",
+            "tömlős sajt"
+        ],
+        "image": "/images/pizza2.png",
+        "isAvailable": true
+    },
+    {
+        "name": "Chili Joe pizza",
+        "ingredients": [
+            "dfgdrfg"
+        ],
+        "image": "/images/pizza3.png",
+        "isAvailable": false
+    },
+    {
+        "name": "Tonhalas pizza ",
+        "ingredients": [
+            "paradicsomos alap",
+            "prosciutto sonka",
+            "gomba",
+            "tonhal",
+            "sajt"
+        ],
+        "image": "/images/pizza4.png",
+        "isAvailable": false
+    },
+    {
+        "name": "Mexikói pizza",
+        "ingredients": [
+            "paradicsomos alap",
+            "prosciutto sonka",
+            "paprika",
+            "sajt",
+            "bab",
+            "jalapeno"
+        ],
+        "image": "/images/pizza5.png",
+        "isAvailable": false
+    },
+    {
+        "name": "uzguzguzg",
+        "ingredients": [
+            "dfsgfdg"
+        ],
+        "image": "/images/pizza6.png",
+        "isAvailable": true
+    }
+]
