@@ -1,1 +1,1 @@
-# pizza-order-team-project
+# An older project, a simple page made in HTML, CSS and pure Javascript. The project was almost entirely made by me, except the order view, and the styling. Backend server, json files was also made by me.
